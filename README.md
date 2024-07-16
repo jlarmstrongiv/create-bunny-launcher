@@ -5,7 +5,7 @@
 ## Installation
 
 ```shell
-npm create --yes bunny-launcher@latest
+npx --yes create-bunny-launcher@latest
 ```
 
 ## Documentation
