@@ -30,7 +30,9 @@
     "prepublishOnly": "node --disable-warning=ExperimentalWarning ./check-dependencies.js"
   },
   "main": "index.js",
-  "bin": "no-warnings.js",
+  "bin": {
+    "create-bunny-launcher": "no-warnings.js"
+  },
   "files": [
     "no-warnings.js",
     "cli.js",
