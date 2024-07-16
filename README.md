@@ -1,6 +1,6 @@
 # create-bunny-launcher
 
-[![NPM Version](https://img.shields.io/npm/v/bunny-launcher?color=blue)](https://www.npmjs.com/package/create-bunny-launcher)
+[![NPM Version](https://img.shields.io/npm/v/create-bunny-launcher?color=blue)](https://www.npmjs.com/package/create-bunny-launcher)
 
 ## Documentation
 
