@@ -2,6 +2,7 @@
 
 - Compare with `create-bunny-launcher`
 - Compare with `bunny-sync`
+- Update `docs/public/static/json-schema/create-bunny-launcher/schema.json`
 - `corepack enable npm`
 - `npm login`
 - `npm install`
