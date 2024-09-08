@@ -10,4 +10,4 @@ npx --yes create-bunny-launcher@latest
 
 ## Documentation
 
-Please read the [docs](https://bunny-launcher.net/configuration/) for usage and examples.
+Please read the [docs](https://bunny-launcher.net/quickstart/) for usage and examples.

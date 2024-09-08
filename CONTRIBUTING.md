@@ -1,7 +1,10 @@
 # Contributing
 
-- Compare with `create-bunny-launcher`
-- Compare with `bunny-sync`
+- Compare with:
+  - `bunny-launcher`
+  - `create-bunny-launcher`
+  - `bunny-sync`
+  - `bunny-move`
 - Update `docs/public/static/json-schema/create-bunny-launcher/schema.json`
 - `corepack enable npm`
 - `npm login`
